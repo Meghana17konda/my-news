@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(7, 7, 7);
+    color: #fff;
+    padding: 1rem 0;
+    a {
+      display: inline-block;
+      color: rgb(245, 110, 110);
+    }
+  }
